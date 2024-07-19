@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  you-music-nerd
+//
+//  Created by Julius Broomfield on 7/19/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+SPOTIFY_SECRET_KEY = b753bd3373c64abab2aa56bd8107d2d0
